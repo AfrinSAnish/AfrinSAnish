@@ -1,11 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2DFFB5&center=true&width=900&lines=Hey%2C+I'm+AFRIN+S+ANISH+%F0%9F%91%8B;Software+Alchemist+%F0%9F%90%8D;Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2DFFB5&center=true&width=900&lines=Hey%2C+I'm+AFRIN+S+ANISH+%F0%9F%91%8B;Software+Alchemist+%F0%9F%90%8D;Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;Built+with+❤️+and+☕+by+AFRIN+%F0%9F%9A%80)
 
 ---
 
 ## 💚 **About Me**
 
 ```
-> $ whoami
 > AFRIN S ANISH
 > $ uname -a
 > 19 | CSE Cybersecurity | Data Science
@@ -19,7 +18,7 @@
 - 🚀 Contributing to GSSoC 2026 (AI/Agents Track)
 - 💻 Building crazy full-stack projects
 - 🔬 Publishing research papers
-- 🏆 CGPA: 9.0 | JEE Advanced Qualified | DSA Class Topper
+- 🏆 CGPA: 9.0 | JEE Advanced Qualified |
 
 ---
 
@@ -31,7 +30,7 @@
 | **Frontend** | React • HTML • CSS • UI/UX Design |
 | **Backend** | FastAPI • Flask • RESTful APIs • MySQL |
 | **Mobile** | Kotlin • Jetpack Compose • Android Native |
-| **Cyber & Data** | Cybersecurity • Data Science • ML • EDA |
+| **Cyber & Data** | Cybersecurity • Data Science • ML  |
 | **DevOps & Cloud** | Git • Firebase • Google Cloud • Cloud Services |
 
 ---
@@ -52,30 +51,9 @@
 **Features:** Smooth transitions • Mobile optimized • Production ready  
 **Result:** Masterclass in modern frontend design
 
-### 🏆 Hackathon Victories (x5)
-> Built multiple production apps from scratch
-
-**Focus:** Innovation • Speed • System Design  
-**Outcome:** Technical excellence recognized
-
----
-
-## 📚 **Research Papers**
-
-| 🔬 Paper | Status | Details |
-|---------|--------|---------|
-| Conference Paper | Under Review | Top-tier conference evaluation |
-| Literature Review | Submitted | Comprehensive research overview |
-| Frontiers Journal | Peer Review | Advanced research in process |
-| Cybersecurity Study | In Progress | Collaborative faculty research |
-
----
-
 ## 🏆 **Achievements**
 
 ```
-✓ DSA Class Topper              ✓ JEE Advanced Qualified
-✓ S Grade (Multidisciplinary)   ✓ CGPA: 9.0
 ✓ GSSoC 2026 Contributor        ✓ 500+ GitHub Repositories
 ✓ SAE India - Core Member       ✓ Rotor FPV - Junior Core
 ```
@@ -87,8 +65,8 @@
 Not just a developer — I'm a **complete creative person**:
 
 🥋 **Black Belt Karate** • 🏐 **State-Level Netball** • 🎸 **Guitar Player**  
-🎵 **Ukulele Learner** • 🎨 **Digital Artist** • ✍️ **Writer**  
-🎤 **Singer** • 🏀 **Basketball** • 📚 **Always Learning**
+🎵 **Ukulele Learner**   • 🎨 **Digital Artist**      • ✍️ **Writer**  
+🎤 **Singer**            • 🏀 **Basketball**          • 📚 **Always Learning**
 
 ---
 
@@ -102,9 +80,9 @@ Not just a developer — I'm a **complete creative person**:
 
 ## 🔗 **Let's Connect**
 
-📧 **Email:** afrin@example.com  
+📧 **Email:** afrinsanish@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/afrin-s-anish](https://linkedin.com/in/afrin-s-anish-27b824374)  
-💻 **GitHub:** [@YOURUSERNAME](https://github.com/YOURUSERNAME)  
+💻 **GitHub:** [@YOURUSERNAME](https://github.com/AfrinSAnish)  
 🌐 **Portfolio:** Coming Soon  
 
 ---
@@ -121,5 +99,5 @@ Not just a developer — I'm a **complete creative person**:
 
 > *"Code is poetry. Security is responsibility. Innovation is our duty."*
 
-**Built with ❤️ and ☕ by AFRIN**  
+  
 Last Updated: May 2026 | Status: 🟢 Always Shipping
