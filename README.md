@@ -24,31 +24,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-- 🪙 **Coin Tracker** — Real-time crypto tracking Android app in Kotlin
-- 🏙️ **Civic Complaint Platform** — Full-stack app with FastAPI + React, AI categorization
-- 🎵 **Music App** — Android music player
-- 📝 **Blog Application** — Android blogging app
-
----
-
-<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=6C63FF)
 
