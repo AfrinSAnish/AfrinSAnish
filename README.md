@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2DFFB5&center=true&width=900&lines=Hey%2C+I'm+AFRIN+S+ANISH+%F0%9F%91%8B;Software+Alchemist+%F0%9F%90%8D;Built+with+💖+and+Coffee+by+AFRIN+%F0%9F%9A%8D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2DFFB5&center=true&width=900&lines=Hey%2C+I'm+AFRIN+S+ANISH+%F0%9F%91%8B;Software+Alchemist+%F0%9F%90%8D)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2DFFB5&center=true&width=900&lines=Built+with+💖+and+🍵+by+AFRIN+%F0%9F%91;Software+Alchemist+%F0%9F%90)
 
 ---
