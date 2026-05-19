@@ -52,7 +52,7 @@
 ## 🏆 **Achievements**
 
 ```
-✓ GSSoC 2026 Contributor        ✓ 500+ GitHub Repositories
+✓ GSSoC 2026 Contributor        ✓ 85+ GitHub Repositories
 ✓ SAE India - Core Member       ✓ Rotor FPV - Junior Core
 ```
 
@@ -80,8 +80,7 @@ Not just a developer — I'm a **complete creative person**:
 
 📧 **Email:** afrinsanish@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/afrin-s-anish](https://linkedin.com/in/afrin-s-anish-27b824374)  
-💻 **GitHub:** [@YOURUSERNAME](https://github.com/AfrinSAnish)  
-🌐 **Portfolio:** Coming Soon  
+💻 **GitHub:** [@AfrinSAnish](https://github.com/AfrinSAnish)  
 
 ---
 
