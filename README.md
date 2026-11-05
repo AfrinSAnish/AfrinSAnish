@@ -14,9 +14,7 @@
 - 🎓 B.Tech CSE (Cybersecurity) @ VIT Vellore
 - 📊 BS Data Science @ IIT Madras
 - 🚀 Contributing to GSSoC 2026 (AI/Agents Track)
-- 💻 Building crazy full-stack projects
 - 🔬 Publishing research papers
-- 🏆 CGPA: 9.0 | JEE Advanced Qualified |
 
 ---
 
